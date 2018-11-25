@@ -1,0 +1,27 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+.panel1 {
+	-fx-font-size: 30;
+	-fx-font-family: system;
+}
+
+.panel2 {
+	-fx-font-size: 30;
+	-fx-font-family: system;
+}
+
+.panel3 {
+	-fx-font-size: 30;
+	-fx-font-family: system;
+}
+
+.panel4 {
+	-fx-font-size: 30;
+	-fx-font-family: system;
+}
+
+.panel_panel {
+	-fx-border-color: #8d8d8d;
+	-fx-border-width: 2;
+	-fx-background-color: #ffffff;
+}
